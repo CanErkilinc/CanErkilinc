@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fimages%2Fprogramming-language-logo-vector-icons-set-css-html-javascript-java-nodejs-php-c-c-c-swift-kotlin-python-isolated-editorial-illustration-on-white-background%2F447176828&psig=AOvVaw39xs5DoyKBMyAE3qbuyQvC&ust=1750928224811000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPD64o2ajI4DFQAAAAAdAAAAABAV](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dprogramming%2Blogo&psig=AOvVaw39xs5DoyKBMyAE3qbuyQvC&ust=1750928224811000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPD64o2ajI4DFQAAAAAdAAAAABAo))
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fcode-language-logo&psig=AOvVaw39xs5DoyKBMyAE3qbuyQvC&ust=1750928224811000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPD64o2ajI4DFQAAAAAdAAAAABBE)
 <h1 align="center">Hi 👋, I'm Can Erkılınç</h1>
 <h3 align="center">A passionate developer from Turkey with experience in Backend (Java), Frontend, and Swift development</h3>
 
