@@ -1,8 +1,6 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fcode-language-logo&psig=AOvVaw39xs5DoyKBMyAE3qbuyQvC&ust=1750928224811000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPD64o2ajI4DFQAAAAAdAAAAABBE)
+[![MasterHead](https://t3.ftcdn.net/jpg/04/47/17/68/360_F_447176828_7Leejwia38M4u7OA3EdTGjwWapEwTHx0.jpg)
 <h1 align="center">Hi 👋, I'm Can Erkılınç</h1>
 <h3 align="center">A passionate developer from Turkey with experience in Backend (Java), Frontend, and Swift development</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=canerkilinc" alt="canerkilinc" /></a> </p>
 
 - 🔭 I’m currently working on **React**
 
